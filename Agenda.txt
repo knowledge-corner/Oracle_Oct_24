@@ -1,0 +1,32 @@
+Training Agenda - 
+
+Day 1 
+
+Introduction to Python
+Data Types
+Variables
+Operators
+Decision Making
+Iterations
+
+Day 2
+
+Strings
+Lists
+Tuples
+Sets
+Dictionary
+
+Day 3 
+
+Comprehension
+Functions
+Lambda Functions
+
+Day 4
+
+Exception Handling
+External data connectivity
+OOPS
+
+
